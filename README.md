@@ -10,4 +10,4 @@ This project provides a virtual Active Directory (AD) environment in Azure using
 - Set up Connector machines to connect to the AD environment.
 - Automate the creation of users in the AD using a PowerShell script.
 
-
+![Architecture Diagram](https://i.imgur.com/5LEsD53.png)
